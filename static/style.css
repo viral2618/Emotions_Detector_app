@@ -1,0 +1,10 @@
+.prediction { color: white; padding: 10px; border-radius: 10px; display:inline-block; text-transform: capitalize; font-weight:600; }
+
+/* emotion colors */
+.joy { background-color: #FFD700; }
+.sadness { background-color: #4682B4; }
+.anger { background-color: #FF4500; }
+.fear { background-color: #8B008B; }
+.love { background-color: #FF69B4; }
+.surprise { background-color: #20B2AA; }
+.unknown { background-color: #333333; }
